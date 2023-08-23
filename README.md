@@ -25,5 +25,9 @@
 
 I had to reduce the quality of the video I shot to post it here. Anyway. There is also a preview video of Youtube Clone App. Here it is.
 
-https://github.com/terravision7/YoutubeClone/assets/84978857/5704050c-a4fb-45e6-a267-0133b38f6bbc
+
+
+
+
+https://github.com/terravision7/YoutubeClone/assets/84978857/4d09c605-38eb-42f7-9e81-4c511afa8bbd
 
