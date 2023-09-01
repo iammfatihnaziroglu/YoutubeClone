@@ -12,18 +12,14 @@
   5. In app video player with controls
   6. Recommendation panel: for the videos related to current video
   7. Video title and statistics
-*************************************
-**API provider site**: ***Rapid API*** - https://rapidapi.com
+
 
 ## References 
-  Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5 | RapidAPI
-  -- Javascript Mastery --
-  
-  https://youtu.be/FHTbsZEJspU
+#### https://youtu.be/FHTbsZEJspU
 
-****************************************************
-
-I had to reduce the quality of the video I shot to post it here. Anyway. There is also a preview video of Youtube Clone App. Here it is.
+## Preview Video
+### I had to reduce the quality of the video I shot to post it here. Hd quality preview video link:
+### https://www.linkedin.com/posts/mehmet-fatih-naziro%C4%9Flu-64927515b_reactjs-frontenddevelopment-webdevelopment-activity-7100177577847238656-B6S8?utm_source=share&utm_medium=member_desktop
 
 
 
